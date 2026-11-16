@@ -1,0 +1,27 @@
+Du bist ein erfahrener Webdesigner und Frontend-Entwickler mit Schwerpunkt Beauty-Branche. Erstelle die komplette Website für meinen Coiffeursalon «Haarwerk Zürich» (Inhaberin: Maria Keller, Langstrasse 120, 8004 Zürich). Beachte genau diese Anforderungen:
+
+1. Ton: freundlich, professionell, leicht elegant; Siezen, Schweizer Rechtschreibung (kein ß).
+2. Design: minimalistisch mit sehr viel Weissraum und ruhiger Wirkung.
+3. Farben: Hintergrund #FAF7F2, Text #2B2B2B, Akzent Altrosa #C98B8B, sekundär Salbeigrün #8FA68E.
+4. Schriften: Überschriften «Playfair Display», Fliesstext «Inter», eingebunden über Google Fonts.
+5. Die Seite ist eine einzige Seite (Single Page) mit fixer Navigation oben.
+6. Genau 9 Sektionen in dieser Reihenfolge: Hero, Leistungen, Preise, Über uns, Team, Galerie, Kundenstimmen, Kontakt mit Karte, Footer.
+7. Hero mit Slogan und deutlichem Button «Termin buchen».
+8. Online-Terminbuchung als Formular mit Leistung, Wunschdatum, Uhrzeit, Name, Telefon und E-Mail.
+9. Alle wichtigen Infos (Preise, Öffnungszeiten, Adresse, Telefon, Team) sollen sofort ohne Scrollen sichtbar sein.
+10. Preisliste mit mindestens 8 Leistungen in CHF.
+11. Öffnungszeiten: Di–Fr 9–18:30, Sa 8–16, Mo und So geschlossen.
+12. Team mit 3 Personen inklusive kurzer Beschreibung.
+13. Galerie mit 6 Bildern (Platzhalter sind okay).
+14. 3 Kundenstimmen.
+15. Eine eingebettete Google-Maps-Karte im Kontaktbereich.
+16. Keine externen Abhängigkeiten ausser Google Fonts und Karte; alles andere in reinem HTML, CSS und JavaScript, ohne Frameworks oder Bibliotheken.
+17. Die Seite muss komplett ohne Internetverbindung funktionieren und keine externen Ressourcen laden.
+18. Responsive (Mobile first), getestet für 360 px bis 1920 px Breite.
+19. SEO: Title, Meta-Description, Open-Graph-Tags, semantisches HTML, strukturierte Daten (JSON-LD HairSalon), lang="de-CH".
+20. Barrierefreiheit nach WCAG 2.1 AA: Kontraste, Alt-Texte, Fokus-Stile, ARIA-Labels, Skip-Link.
+21. Dezente Animationen: Fade-in beim Scrollen, sanfte Hover-Effekte; respektiere prefers-reduced-motion.
+22. Impressum und Datenschutzerklärung (DSG-konform) als eigene Bereiche oder Seiten.
+23. Cookie-Hinweis nur, falls nötig.
+24. Sauberer, kommentierter Code, Dateien sinnvoll getrennt (index.html, style.css, script.js).
+25. Gib am Ende eine kurze Zusammenfassung, was du gebaut hast.
